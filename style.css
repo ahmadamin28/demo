@@ -1,0 +1,29 @@
+body{
+   
+    font-family: "Courier New", Courier, monospace;
+    letter-spacing: 0.15em;
+    background-color: #93b5e1
+;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: 1000;
+    background-color: turquoise;
+    
+}
+div.all{
+    width: 670px;
+ padding: 15px;
+ margin: 0px auto 0px auto;
+ border-top: 2px solid #000;
+ border-bottom: 1px solid #000;
+ text-align: center;
+ color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 6px 18px 5px 18px;}
+    a:hover, a.on {
+    color: #cc3333;
+    background-color: #ffffff;
+}
